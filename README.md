@@ -1,4 +1,6 @@
-# DnD Trading
+# DnD Trading — Legacy Copy
+
+> **Earlier portfolio copy.** The [current DnD Trading repository](https://github.com/DarianRobert/DnD-Trading) contains the original team commit history and is the version linked from my portfolio. This repository is retained as an older snapshot.
 
 A Windows desktop application developed for a stationery distribution business as part of a University of KwaZulu-Natal team project in 2025.
 
@@ -63,3 +65,4 @@ The project targets Windows and the full .NET Framework. It requires Visual Stud
 
 - [DnD Trading website](https://github.com/DarianRobert/DnD-Trading-Website)
 - [My project portfolio](https://darianrobert.github.io/)
+
